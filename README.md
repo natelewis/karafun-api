@@ -1,14 +1,14 @@
-Karafun API interface for Node
+Karafun API interface for Node.js
 =================================================
 
 Overview
 --------
-This is an API to the socket based remote for the KaraFun Player V2.  This abstracts that socket based interface and converts it into some conveinent functions and event emmitter.
+This is an Node.js API KaraFun Player V2.  This abstracts that web socket API and converts it into some conveinent functions and event emmitters.
 
 KaraFun Version Support
 -----------------------
 
-Current KaraFun Player for Windows is the only version this capability.
+Current KaraFun Player for Windows is the only version with this capability.
 
 Usage
 -----
