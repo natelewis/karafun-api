@@ -1,0 +1,24 @@
+{
+  "name": "karafun-api",
+  "version": "0.0.1",
+  "description": "KaraFun's API for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint \"**/*.js\" --fix; true"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/natelewis/karafun-api.git"
+  },
+  "author": "Nate Lewis",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "websocket": "^1.0.26",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "eslint": "^4.4.1",
+    "eslint-config-google": "^0.9.1"
+  }
+}
